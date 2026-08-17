@@ -135,6 +135,9 @@ hybrid-local-rag-chat/
 
 3. **Generation** — The selected documents + conversation history are injected into a prompt sent to Ollama (`qwen2.5:1.5b`), which streams a grounded answer.
 
+<img width="1458" height="729" alt="screenshoot" src="https://github.com/user-attachments/assets/51dd91e2-6198-4240-8747-51dee3a5ad2e" />
+
+
 ## 📄 License
 
 MIT — see [LICENSE](LICENSE).
