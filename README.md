@@ -51,7 +51,7 @@ User Question
 
 ```bash
 # 1. Clone the repo
-git clone <your-repo-url>
+git clone <https://github.com/wenlong-sun7/hybrid-local-rag-chat/>
 cd hybrid-local-rag-chat
 
 # 2. (Optional) Create a virtual environment
