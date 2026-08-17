@@ -1,0 +1,27 @@
+# Runtime data (regenerated automatically on app boot)
+chroma_db/
+
+# Environment files
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+.vscode/
+.cursor/
+*.swp
+
+# Streamlit
+.streamlit/secrets.toml

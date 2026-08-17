@@ -1,0 +1,11 @@
+AI Regulation and Global Policy Frameworks
+
+Governments worldwide are racing to establish regulatory frameworks for artificial intelligence as capabilities advance faster than legislative processes. The European Union's AI Act, effective in 2024, creates a risk-based classification system banning unacceptable applications like social scoring while imposing strict requirements on high-risk uses in employment, law enforcement, and critical infrastructure.
+
+The United States pursues a sectoral approach through executive orders, NIST AI frameworks, and state-level legislation in California, Colorado, and elsewhere. The Biden administration's executive order mandated safety testing for frontier models and established the AI Safety Institute within NIST. Congressional efforts to pass comprehensive AI legislation face partisan divisions and lobbying from technology companies.
+
+China implements algorithm registration requirements, content moderation rules for generative AI, and export controls on advanced chips and model weights. The UK hosts the AI Safety Summit at Bletchley Park and positions itself as a pro-innovation regulator through its AI Safety Institute. International bodies including the UN, OECD, and G7 publish voluntary guidelines and risk assessment frameworks.
+
+Key policy debates center on copyright and training data, liability for AI-generated harm, mandatory disclosure of AI-generated content, and compute thresholds triggering enhanced oversight. Technology companies advocate for innovation-friendly rules while civil society groups demand stronger protections against surveillance, discrimination, and environmental costs of massive data centers.
+
+Multinational corporations navigate fragmented compliance requirements across jurisdictions, influencing product design and model availability by region. The regulatory landscape will likely intensify as AI systems become embedded in essential services affecting billions of people daily.

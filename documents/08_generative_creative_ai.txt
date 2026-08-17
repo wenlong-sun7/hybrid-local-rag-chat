@@ -1,0 +1,11 @@
+Generative AI in Creative Industries: Art, Music, and Entertainment
+
+Generative artificial intelligence has transformed creative industries, enabling anyone to produce images, music, video, and written content from text prompts. Hollywood studios experiment with AI for previsualization, de-aging actors, and generating background environments. Music platforms integrate AI composition tools that create royalty-free soundtracks for videos and games.
+
+The 2023 Hollywood writers' and actors' strikes prominently featured AI as a central negotiation issue, with unions securing protections against replacement by generated scripts and digital likenesses. Studios simultaneously invest in AI tools to reduce production costs and accelerate workflows. Independent creators leverage AI to compete with larger budgets, democratizing content production.
+
+Text-to-image models raise profound copyright questions when trained on artists' work without consent. Lawsuits from Getty Images and individual artists against Stability AI and Midjourney proceed through courts, potentially reshaping fair use doctrine for the AI era. Some platforms offer opt-out mechanisms and revenue sharing with creators whose styles are emulated.
+
+Video generation advances rapidly with models producing coherent multi-second clips featuring consistent characters and physics. Gaming companies use procedural generation enhanced by neural networks for infinite world content. Publishing houses deploy AI for translation, editing, and marketing copy while grappling with disclosure requirements for AI-assisted books.
+
+The creative community remains divided between enthusiasts embracing new tools and critics mourning loss of human craftsmanship. Educational institutions update curricula to teach AI-assisted creative workflows as essential professional skills for the next generation of artists and designers.

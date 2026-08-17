@@ -1,0 +1,11 @@
+Reasoning Models: Teaching AI to Think Step by Step
+
+Reasoning models mark a significant evolution beyond standard large language models. OpenAI's o1 and o3 series, along with DeepSeek-R1 and Google's Gemini thinking modes, employ extended inference-time computation to solve complex problems in mathematics, programming, and scientific reasoning. Rather than generating immediate answers, these models internally deliberate through chains of thought before responding.
+
+The key insight is that allocating more compute during inference, not just during training, can dramatically improve accuracy on hard tasks. Test-time scaling laws mirror training-time scaling laws, suggesting that letting models think longer yields better results on challenging benchmarks. Reinforcement learning on reasoning traces teaches models to verify steps, backtrack from errors, and explore alternative solution paths.
+
+DeepSeek-R1 demonstrated that open-weight reasoning models can match proprietary systems at a fraction of the training cost, triggering intense competition and market reactions. Techniques include process reward models that score intermediate steps, Monte Carlo tree search for exploring solution spaces, and self-consistency sampling across multiple reasoning paths.
+
+Applications span competitive programming, formal theorem proving, drug molecule design, and financial modeling where logical rigor matters. Education platforms use reasoning models as tutors that show detailed work rather than simply providing answers. Enterprise customers value reduced hallucination rates on analytical tasks.
+
+Limitations include higher latency and token costs, occasional overthinking on simple queries, and challenges evaluating whether internal reasoning truly reflects logical deduction versus pattern matching. The field continues advancing toward systems that combine fast intuitive responses with deep deliberate analysis when needed.

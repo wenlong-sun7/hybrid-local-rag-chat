@@ -1,0 +1,11 @@
+AI in Healthcare: Transforming Diagnosis and Drug Discovery
+
+Artificial intelligence is reshaping healthcare across diagnosis, treatment planning, drug discovery, and administrative efficiency. Medical imaging AI systems detect cancers, fractures, and retinal diseases with accuracy matching or exceeding specialist physicians in controlled studies. Companies like Google Health, Aidoc, and PathAI deploy FDA-cleared algorithms in hospitals worldwide.
+
+Large language models assist clinicians with documentation, summarizing patient histories, and suggesting differential diagnoses based on symptoms and lab results. Ambient clinical documentation products from Nuance, Abridge, and others transcribe doctor-patient conversations and generate structured notes, reducing physician burnout from paperwork.
+
+Drug discovery timelines compress as AI models predict protein structures, as demonstrated by DeepMind's AlphaFold, and simulate molecular interactions. Insilico Medicine, Recursion, and Isomorphic Labs use generative models to design novel compounds targeting previously undruggable proteins. Clinical trial optimization algorithms identify suitable patient cohorts and predict trial outcomes.
+
+Personalized medicine benefits from AI analysis of genomic data, wearable sensor streams, and electronic health records to tailor treatments. Remote patient monitoring systems alert care teams to deterioration before emergencies occur. Mental health chatbots provide accessible support, though concerns about replacing human therapists persist.
+
+Regulatory frameworks evolve through FDA guidance on software as medical devices and EU health data regulations. Challenges include algorithmic bias across demographic groups, integration with legacy hospital systems, liability when AI recommendations err, and ensuring patient privacy under HIPAA and GDPR requirements.

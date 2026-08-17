@@ -1,0 +1,38 @@
+version: "3.8"
+
+services:
+  ollama:
+    image: ollama/ollama:latest
+    container_name: rag-ollama
+    volumes:
+      - ollama_data:/root/.ollama
+    ports:
+      - "11434:11434"
+    healthcheck:
+      test: ["CMD", "ollama", "list"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+    restart: unless-stopped
+
+  app:
+    build: .
+    container_name: rag-streamlit
+    depends_on:
+      ollama:
+        condition: service_healthy
+    environment:
+      - OLLAMA_URL=http://ollama:11434/api/generate
+      - OLLAMA_MODEL=qwen2.5:1.5b
+      - DOCUMENTS_DIR=./documents
+      - CHROMA_PATH=./chroma_db
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./documents:/app/documents
+      - chroma_data:/app/chroma_db
+    restart: unless-stopped
+
+volumes:
+  ollama_data:
+  chroma_data:
